@@ -1,5 +1,5 @@
 # About
-This is the original code of my master thesis in 2019. It finds some Coxeter quotients of (very small) knots, in particular, knots with reasonable diagrams of bridge index at most 3, or 4 if you are very patient.
+This is the original code of my master thesis in 2019. It finds some Coxeter quotients of (very small) knots, in particular, knots with reasonable diagrams with at most 20 crossings of bridge index at most 3, or 4 if you are very patient.
 
 # Using Natively
 If you have python and numpy installed you can just run
